@@ -11,6 +11,6 @@ public class CurrencyConverterTest extends TestCase
 
     public void testCurrencyConverter001()
     {
-        assertEquals(1.21f,currencyConverter.ConvertE_D(1));
+        assertEquals(1.21f,currencyConverter.ConvertE_(1));
     }
 }
